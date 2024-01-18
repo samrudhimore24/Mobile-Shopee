@@ -1,0 +1,14 @@
+button {
+    background-color: blue;
+    border: none;
+    padding: 10px 10px;
+    position: relative;
+    font-weight: bold;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+button:hover{
+    background-color: yellow;
+}
